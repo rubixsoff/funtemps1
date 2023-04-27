@@ -4,7 +4,7 @@ import (
 	"flag"
 	"fmt"
 
-	"rubixsoff/funtemps/funtemps1/conv"
+	"rubixsoff/funtemps1/conv"
 )
 
 // Definerer flag-variablene i hoved-"scope"
